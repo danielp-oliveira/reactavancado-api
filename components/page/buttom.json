@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_page_buttoms",
+  "info": {
+    "name": "buttom",
+    "icon": "external-link-alt"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "default": "Comprar",
+      "required": true,
+      "maxLength": 20
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
