@@ -17,7 +17,8 @@
     "buttom": {
       "type": "component",
       "repeatable": false,
-      "component": "page.buttom"
+      "component": "page.buttom",
+      "required": true
     },
     "image": {
       "model": "file",
